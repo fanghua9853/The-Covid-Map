@@ -1,4 +1,4 @@
-# UI
+# Covid Map Data Dashbpard Interface
 ![image](https://github.com/fanghua9853/The-Covid-Map/assets/42789126/d365c02c-77ec-4d82-96b1-93f4d2b15cca)
 
 <img width="605" alt="image" src="https://github.com/fanghua9853/The-Covid-Map/assets/42789126/5f8ecd85-a72f-42d9-afa7-dd5cc7a85548">
