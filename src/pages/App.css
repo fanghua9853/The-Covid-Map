@@ -1,0 +1,90 @@
+.container{
+    background: #000;
+    border-radius: 25px;
+    padding: 20px;
+}
+.text-light{
+    color: #fff;
+}
+.text-red{
+    color: #e01e37;
+}
+
+.wrapper{
+    background-color: #212529;
+}
+
+header{
+
+        background-color: #041F1E;
+    
+}
+
+#globe-stat {
+  width: 400px;
+}
+
+
+#container {
+    width: 100%;
+    height: auto;
+    text-align: center;
+    margin: 0 auto;
+  }
+  
+  .link {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .link .tip {
+    visibility: hidden;
+    width: 0px;
+    height: 100px;
+    opacity: 0;
+    background-color: #e01e37;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    top: -5px;
+    right: 105%;
+    transition: 0.5s ease;
+    overflow: visible;
+    margin-right: 20px;
+    border-radius: 25px;
+    padding: 20px;
+  }
+  
+  .link:hover .tip {
+    visibility: visible;
+    width: 150px;
+    height: auto;
+    opacity: 1;
+  }
+
+  #rcorners1 {
+    border-radius: 25px;
+    padding: 20px;
+ 
+  }
+
+  .card-title {
+    color: #e01e37;
+  }
+
+#btn1{
+  height: 1000px;
+  width: 1500px;
+}
+
+#bottom-stack {
+  height: 100%;
+  width: 100%;
+}
+
+#us-data {
+  height: 500px;
+  width: 1000px;
+}
